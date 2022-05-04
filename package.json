@@ -1,0 +1,19 @@
+{
+  "name": "change-background",
+  "version": "1.0.0",
+  "description": "Web APP which change its background when you click ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernestosmr/change-background-js.git"
+  },
+  "author": "@safoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ernestosmr/change-background-js/issues"
+  },
+  "homepage": "https://github.com/ernestosmr/change-background-js#readme"
+}
